@@ -68,7 +68,9 @@ export default {
   position: absolute;
   width: 100%;
   height: 100vh;
-  background-color: var(--dark);
+  /* background-color: var(--dark); */
+  background: url(../assets/image/icon_back_1.png) no-repeat center center;
+
   color: var(--light);
   top: 0;
   left: 0;

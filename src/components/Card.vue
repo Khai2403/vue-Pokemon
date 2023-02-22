@@ -96,7 +96,7 @@ export default {
 }
 
 .card_front .card_content {
-  background: url(../assets/image/icon_back.png) no-repeat center center;
+  background: url(../assets/image/icon_back_1.png) no-repeat center center;
   background-size: contain;
   height: 100%;
   width: 100%;
